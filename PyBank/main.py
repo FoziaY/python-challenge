@@ -1,7 +1,7 @@
 import csv
 
 # Open file
-with open('budget_data.csv', 'r') as file:
+with open('Resources/budget_data.csv', 'r') as file:
   csvReader = csv.reader(file)
   months = 0
   net = 0
