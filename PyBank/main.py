@@ -55,7 +55,7 @@ with open('Resources/budget_data.csv', 'r') as file:
 
   print(f"Greatest Decrease in profits: {min_date} (${greatest_decr})")
 
-  with open('budget_analysis.txt', 'w') as output_file:
+  with open('analysis/budget_analysis.txt', 'w') as output_file:
     output_file.write("Financial Analysis\n")
     output_file.write("----------------------------\n")
     output_file.write(f"Total Months: {months}\n")
