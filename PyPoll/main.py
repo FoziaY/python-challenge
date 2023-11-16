@@ -1,7 +1,7 @@
 import csv
 
 # Open file
-with open('election_data.csv', 'r') as file:
+with open('Resources/election_data.csv', 'r') as file:
   csvReader = csv.reader(file)
   votes = 0
 
@@ -26,7 +26,7 @@ with open('election_data.csv', 'r') as file:
     votes += 1
   
   # Output to file
-  with open('election_analysis.txt', 'w') as output_file:
+  with open('analysis/election_analysis.txt', 'w') as output_file:
     output_file.write("Election Results\n")
     output_file.write("------------------------\n")
     output_file.write(f"Total Votes: {votes}\n")
