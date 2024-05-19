@@ -1,5 +1,8 @@
 # Python Challenge: PyBank and PyPoll
 
+<img src="https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/10-Python-Code-Challenges-for-Beginners-1.png
+" alt="Crowdfunding Project Analysis" style="width: 100%; height: auto;">
+
 ## Background
 This project involves two Python challenges: PyBank and PyPoll. These challenges help transition from Excel-based analysis to more powerful Python scripting for handling large datasets. The tasks are based on analyzing financial records and election data using Python.
 
