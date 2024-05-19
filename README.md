@@ -70,7 +70,7 @@ for i in range(1, len(profit_losses)):
 
 ***
 
-#### Your analysis should align with the following results:
+#### Your analysis align with the following results:
 
 ```
 Financial Analysis
